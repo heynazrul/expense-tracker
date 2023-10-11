@@ -76,6 +76,8 @@ function ExpenseForm() {
                     <option value="subscriptions">Subscriptions</option>
                     <option value="takeaways">Takeaways</option>
                     <option value="clothing">Clothing</option>  
+                    <option value="pet">Pet</option>  
+                    <option value="internet">Internet Bill</option>  
                     <option value="travelling">Travelling</option>  
                     <option value="other">Other</option>  
                 </select>
